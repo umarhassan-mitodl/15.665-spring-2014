@@ -127,7 +127,7 @@ The Centrality of Relationships
 Cross-Cultural Negotiations
 {{< tdclose >}}
 {{< tdopen >}}
-Salacuse, Jeswald W. "{{% resource_link "8d22a864-841d-4031-bc56-540f6322192a" "Ten Ways that Culture Affects Negotiating Style: Some Survey Results" %}}." _Negotiation Journal_ 14, no. 3 (1998): 221–40.
+Salacuse, Jeswald W. "[Ten Ways that Culture Affects Negotiating Style: Some Survey Results](http://dx.doi.org/10.1023/A:1024638709978)." _Negotiation Journal_ 14, no. 3 (1998): 221–40.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -167,7 +167,7 @@ The Power of Fairness and Ethics in Negotiations
 
 \[LR\] Chapter 8: Ethics in Negotiation. pp. 167–85.
 
-Reitz, H. Joseph, et al. {{% resource_link "7311fe06-a799-420c-a50b-ab03f389f880" "\"Ethics in Negotiation: Oil and Water or Good Lubrication?" %}}" _Business Horizons_ 41, no. 3 (1998): 5–14.
+Reitz, H. Joseph, et al. ["Ethics in Negotiation: Oil and Water or Good Lubrication?](http://dx.doi.org/10.1016/S0007-6813%2898%2990003-9)" _Business Horizons_ 41, no. 3 (1998): 5–14.
 
 
 {{< tdclose >}}
